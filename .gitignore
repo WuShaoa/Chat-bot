@@ -1,0 +1,13 @@
+*.ss~
+*.ss#*
+.#*.ss
+
+*.rkt~
+*.scm~
+*.scm#*
+.#*.scm
+*.bak
+.vscode
+.vscode/*
+/compiled/
+**/compiled/

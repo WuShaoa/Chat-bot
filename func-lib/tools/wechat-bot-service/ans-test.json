@@ -1,0 +1,555 @@
+{
+    "ans_node_id": 6666,
+    "ans_node_name": "音乐",
+    "answer": "没问题，马上播放周杰伦，我是如此相信",
+    "answer_open": 1,
+    "answer_type": "music",
+    "article": "",
+    "confidence": 1,
+    "create_time": "1644898966197",
+    "dialog_session_status": "NONE",
+    "dialog_status": "COMPLETE",
+    "event": "",
+    "from_user_name": "egY6EQ8r7ZV",
+    "intent_confirm_status": "",
+    "is_default_answer": false,
+    "list_options": false,
+    "more_info": {
+        "music_ans_detail": ""
+    },
+    "msg": [
+        {
+            "album_name": "我是如此相信",
+            "ans_node_id": 6666,
+            "ans_node_name": "音乐",
+            "article": "",
+            "confidence": 1,
+            "event": "",
+            "list_options": false,
+            "msg_type": "music",
+            "music_url": "http://isure6.stream.qqmusic.qq.com/C400002VVguJ3WnXb9.m4a?guid=2000000006&vkey=5F0A8D8B1D151225D9D9BCF8308452D276327261E80D231376DBE04E909B3617FC6677A28FD65558DDAFCA953516AD07FDDD01E47D84086A&uin=&fromtag=220",
+            "opening": "",
+            "pic_url": "http://y.gtimg.cn/music/photo_new/T002R500x500M000001hGx1Z0so1YX_1.jpg",
+            "request_id": 130,
+            "resp_title": "点歌播放",
+            "scene_status": "",
+            "session_id": "",
+            "singer_name": "周杰伦",
+            "song_name": "我是如此相信",
+            "status": "CONTEXT_FAQ",
+            "take_options_only": false
+        }
+    ],
+    "msg_id": "1644898966197",
+    "opening": "",
+    "request_id": 130,
+    "ret": 0,
+    "scene_status": "",
+    "session_id": "",
+    "skill_id": "",
+    "skill_name": "音乐",
+    "slot_info": [
+        {
+            "delay_time": ""
+        },
+        {
+            "recommender_music": ""
+        },
+        {
+            "榜单": ""
+        },
+        {
+            "播放模式": ""
+        },
+        {
+            "发行版本": ""
+        },
+        {
+            "歌词": ""
+        },
+        {
+            "歌曲类型": ""
+        },
+        {
+            "歌曲名": ""
+        },
+        {
+            "歌曲语言": ""
+        },
+        {
+            "歌手名": "周杰伦"
+        },
+        {
+            "季度": ""
+        },
+        {
+            "年代": ""
+        },
+        {
+            "排序": ""
+        },
+        {
+            "期数": ""
+        },
+        {
+            "其他版本": ""
+        },
+        {
+            "影视剧名": ""
+        },
+        {
+            "专辑": ""
+        },
+        {
+            "综艺名": ""
+        }
+    ],
+    "slots_info": [
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "delay_time",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "recommender_music",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "榜单",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "播放模式",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "发 行版本",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "歌词",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "歌曲类型",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "歌曲名",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "歌曲语言",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 18,
+            "entity_type": "singer_strong",
+            "norm": "周杰伦",
+            "norm_detail": "",
+            "slot_name": "歌手名",
+            "slot_value": "周杰伦",
+            "start": 9
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "季度",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "年代",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "排序",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "期数",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "其他版本",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "影视剧名",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "专辑",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "综艺名",
+            "slot_value": "",
+            "start": 0
+        }
+    ],
+    "status": "CONTEXT_FAQ",
+    "take_options_only": false,
+    "title": "点歌播放",
+    "to_user_name": "dCtPyTN3S57GvV9AmPMii1gRKAmtkm",
+    "msgtype": "text",
+    "query": "我想听周杰伦的歌"
+}
+    {
+    "ans_node_id": 6666,
+    "ans_node_name": "新闻",
+    "answer": "为您查询到以下新闻:",
+    "answer_open": 1,
+    "answer_type": "news",
+    "article": "",
+    "confidence": 1,
+    "create_time": "1644904041449",
+    "dialog_session_status": "NONE",
+    "dialog_status": "COMPLETE",
+    "event": "",
+    "from_user_name": "egY6EQ8r7ZV",
+    "intent_confirm_status": "",
+    "is_default_answer": false,
+    "list_options": false,
+    "more_info": {
+        "news_ans_detail": ""
+    },
+    "msg": [
+        {
+            "ans_node_id": 6666,
+            "ans_node_name": "新闻",
+            "article": "",
+            "article_count": 1,
+            "articles": [
+                {
+                    "description": "《华尔街日报》引述知人士报道，美国联邦调查人员正在调查华尔街的大宗交易业务，调查投行人士是否以不恰当的方式在大规模股票出售前向对冲基金客户提供信息。据报，美国证监会已向摩根士丹利、高盛等投行、以及几家对冲基金公司发出传票，要求提供交易纪录和有关投资者与投行人士沟通的信息。知情人士指出，监管机构至少从2019年起调查围绕大宗交易的违规行为，当时SEC要求几家大型银行供纪录。",
+                    "pic_url": "http://inews.gtimg.com/newsapp_ls/0/14521642866_640330/0",
+                    "title": "美国SEC：据传正调查摩根士丹利、高盛等公司的大宗交易",
+                    "url": "http://new.qq.com/omn/20220215/20220215A0505J.html"
+                }
+            ],
+            "confidence": 1,
+            "event": "",
+            "list_options": false,
+            "msg_type": "news",
+            "opening": "",
+            "request_id": 825307441,
+            "resp_title": "点播新闻",
+            "scene_status": "",
+            "session_id": "",
+            "status": "CONTEXT_FAQ",
+            "take_options_only": false
+        }
+    ],
+    "msg_id": "1644904041449",
+    "opening": "",
+    "request_id": 825307441,
+    "ret": 0,
+    "scene_status": "",
+    "session_id": "",
+    "skill_id": "",
+    "skill_name": "新闻",
+    "slot_info": [
+        {
+            "company": ""
+        },
+        {
+            "date_time": ""
+        },
+        {
+            "location": ""
+        },
+        {
+            "news_type": ""
+        },
+        {
+            "person": ""
+        },
+        {
+            "regex_keywords": "国"
+        }
+    ],
+    "slots_info": [
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "company",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "date_time",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "location",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "news_type",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 0,
+            "entity_type": "",
+            "norm": "",
+            "norm_detail": "",
+            "slot_name": "person",
+            "slot_value": "",
+            "start": 0
+        },
+        {
+            "all_ner_types": "",
+            "confirm_status": "NONE",
+            "end": 6,
+            "entity_type": "news_keyword",
+            "norm": "国",
+            "norm_detail": "",
+            "slot_name": "regex_keywords",
+            "slot_value": "美国",
+            "start": 0
+        }
+    ],
+    "status": "CONTEXT_FAQ",
+    "take_options_only": false,
+    "title": "点播新闻",
+    "to_user_name": "dCtPyTN3S57GvV9AmPMii1gRKAmtkm",
+    "msgtype": "text",
+    "query": "美国新闻"
+}
+    {
+    "data": {
+        "docs": [
+            {
+                "abs_l": "《华尔街报》引述知情人士报道，美国联邦调查人员正在调查华尔街的大宗交易业务，调查投行人士是否以不恰当的方式在大规模股票出售前向对冲基金客户提供信息。据报，美国证监会已向摩根士丹利、高盛等投行、以及几家对冲基金公司发出传票，要求提供交易纪录和有关投资者与投行人士沟通的信息。报道称，司法部也在进行调查。知情人士指出，监管机构至少从2019年起调查围绕大宗交易的违规行为，当时SEC要求几家大银行提供纪录。部分收到传票的基金为华尔街公司提供流动性，随时准备购买大量股票或其他证券，包括鲜有买家问津的股票。",
+                "abs_m": "《华尔街报》引述知情人士报道，美国联邦调查人员正在调查华尔街的大宗交易业务，调查投行人士是否以不恰当的方式在大规模股票出售前向对冲基金客户提供信息。据报，美国证监会已向摩根士丹利、高盛等投行、以及几家对冲基金公司发出传票，要求提供交易纪录和有关投资者与投行人士沟通的信息。知情人士指出，监管机构至少从2019年起调查围绕大宗交易的违规行为，当时SEC要求家大型银行提供纪录。",
+                "abs_s": "《华尔街日报》引述知情人士报道，美国联邦调查人员正在调查华尔街的大宗交易业务，调查投行人士是否以不恰当的方式在大规模股票出售前向对冲基金客户提供信息。据报，美国证监会已向摩根士丹利、高盛等投行、以及几家对冲基金公司发出传票，要求提供交易纪录和有关投资者与投行人士沟通的信息。",
+                "cate1": "财经",
+                "cate2": "",
+                "docid": "20220215A0505J",
+                "pubtime": "1644900862",
+                "shortcut": "http://inews.gtimg.com/newsapp_ls/0/14521642866_640330/0",
+                "srcfrom": "瑞恩资本RyanBenCapital",
+                "title": "美国SEC：据传正在调查摩士丹利、高盛等公司的大宗交易",
+                "url_set": {
+                    "doc_url_list": []
+                },
+                "voice_summary": "http://media.dreamreader.qq.com/1101_e3ce8bdd914a64030ee96665cb1169a7.f0.mp3?vkey=ED863BF60A337BBFF16E7BAE3D129956891F4E1441E91D0E28B252ADEB6A492888601CC392E51B104E620664BE7A605954CCA2799FBAB76B77A789D37FE07FE4EEF2F42A9F2B80207ECE2A8A9AD37F29BE04EBA59F4C92BD&appid_sign=6b06687206a89f617656e1f7e6244084&appid_sign_timestamp=1644904041&appid=tencentWX&duration=54",
+                "voice_timelen": "54"
+            },
+            {
+                "abs_l": "2月9日，美国国家工程院公布最新院士单，此次共新增入选111名院士及22名籍院士。而美国国家工程院成立于1964年，是美国工程学界的最高学术团体之一，美国工程学界的最高三大奖项均由美国国家工程院评选。入选美国国家工程院院士，是工程界最高专业荣誉之一，以表彰那些在“工程研究、实践或教方面做出突出贡献的人，包括在适当情况下对工程文献做出重大贡献的人”，及在“开拓新的和发展中的技术领域，传统的工程领域取得重大进展，或制定/实施创新的工程教育方法的人”。但有的是，关于马斯克的入选理由，并不是特斯拉，而是航天项目SpaceX，美国国家工程院称：在可循环利用的运载火箭和可持续运输和能源系统的设计、工程、制造和运营方面，马斯克的SpaceX取得显著突破。",
+                "abs_m": "2月9日美国国家工程院公布最新院士名单，此次共新增入选111名院士及22名外籍院。而美国国家工程院成立于1964年，是美国工程学界的最高学术团体之一，美国工程学界的最高三大奖项均由美国国家工程院评选。但有趣的是，关于马斯克的入选理由，并不是特斯拉，而是航天项目SpaceX，美国国家工程院称：在可循环利用的运载火箭和可持续运输和能源系统的设计、工程、制造和运营方面，马斯克的SpaceX取得显著突破。",
+                "abs_s": "2月9日，美国国家工程院公布最新院士名单，此次共新增入选111名院士及22名外籍院士。但有趣的是，关于马斯克的入选理由，并不是特斯拉，而是航天项目SpaceX，美国国家工程院称：在可循环利用的运载火箭和可持续运输和能源系统的设计、工程、制造和运营方面，马斯克的SpaceX取得显著突破。",
+                "cate1": "科技",
+                "cate2": "",
+                "docid": "20220215A04SGO",
+                "pubtime": "1644899400",
+                "shortcut": "http://inews.gtimg.com/newsapp_ls/0/14521658601_640330/0",
+                "srcfrom": "皆电君",
+                "title": "开启太空新时代 马斯克入选美国工程院士",
+                "url_set": {
+                    "doc_url_list": []
+                },
+                "voice_summary": "",
+                "voice_timelen": ""
+            },
+            {
+                "abs_l": "对个国家来说，最重要的就是人才储备，这是国家发展和进步的关键，而这些年我国整体实力进步迅速，充分说明我国的人才储备力量。这些人在赴美留学后选择留在美国，甚至加入美籍，成为美国院士甚至是国际顶尖科学家。而最近，有8位华人学者入选了美国工程院2022年的院士，这些学者均由中国大学培养。众所周知，美国科技领先全球，能在美国当选院士充分说明其对科学界的贡献。华人学者能取得这一成就，按理说我们应该感到高兴，但有许多网友认为，这些人才如果不为国家做贡献，而是跑到美国当院士，那么其就与我国无关。从小学到大学，他们的学习成长都是在国内，虽然个人的天赋很重要，但后期的培养也离不开关系，而这充分说明中国教育实力不比任何国家差！中国苦心培养的人才不能都为他人做了嫁衣，只有提供一个优秀的科研环境，才能降低美国对这些人才的吸引力。与此同时，国人也应提高对本国教育的自信心，让人才从小充分感受到本国教育的强大，这样他们才不会盲目崇拜美国，而想做到这一点我国仍需继续努力。",
+                "abs_m": "即便如此，还是有不少人才流失，尤其是清北两所知名学府，虽然每年培养出很多优秀学子，但其中不少人在去美国留学后都一去不复返。这些人在赴美留学后选择留在美国，甚至加入美籍，成为美国院士甚至是国际顶尖科学家。而最近，有8位华人学者入选了国工程院2022年的院士，这些学者均由中国大学培养。华人学者能取得这一成就，按理说我们应该感到高兴，但有许多网友认为，这些人才如果不为国家做贡献，而是跑到美国当院士，那么其就与我国无关。与此同时，国人也应提高对本国教育的自信心，让人才从小充分感受到本国教育的强大，这样他们才不会盲目崇拜美国，而想做到这一点我国仍需继续努力。",
+                "abs_s": "即便此，还是有不少人才流失，尤其是清北两所知名学府，虽然每年培养出很多优秀学子，但其中不少人在去美国留学后都一去不复返。这些人在赴美留学后选择留在美国，甚至加入美籍，成为美国院士甚至是国际顶尖科学家。华人学者能取得这一成就，按理说我们应该感到高兴，但有许多网友认为，这些人才如果不为国家做贡献，而是跑到美国当院士，那么其就与我国无关。",
+                "cate1": "教育",
+                "cate2": "",
+                "docid": "20220215A04CUD",
+                "pubtime": "1644897350",
+                "shortcut": "http://inews.gtimg.com/newsapp_ls/0/14521446388_640330/0",
+                "srcfrom": "铁血观世界",
+                "title": "8人当选美国院士，华人学者继续发力，为中国教育实力正名！",
+                "url_set": {
+                    "doc_url_list": []
+                },
+                "voice_summary": "http://media.dreamreader.qq.com/1101_4c4b2e82ca95ea0b9f04947f85a95809.f0.mp3?vkey=917171F63E28913D7058094BD358C16C2A1C1AE4EC05C9332E38907B921C493ADBB98F8FBB4CA0D0440CADD82D8E89E5035E47837B21D5AD9D3572184ED270A056DFA42CCF6E20B815D35E1376C53A37296AD1ECAC6337D5&appid_sign=6b06687206a89f617656e1f7e6244084&appid_sign_timestamp=1644904041&appid=tencentWX&duration=90",
+                "voice_timelen": "90"
+            },
+            {
+                "abs_l": "英特尔旗下自动驾驶部门Mobileye周一宣布，计划与合作伙伴在2024年在美国推出自动驾驶电动班车。据悉，Mobileye、本特勒电动汽车系统和Beep将按需推出自动驾驶电动班车，班车预计配备12至14个座位，并且没有方向盘和踏板。此前，Mobileye在CES 2022上推出了包括用于自动驾驶汽车全新 EyeQ Ultra专用 SoC，并计划在2024 年为消费者提供吉利旗下极氪品牌全球首款 L4 级自动驾驶汽车，并与大众汽车集团和福特合作在驾驶辅助系统中应用 Mobileye 的地图技术。",
+                "abs_m": "英特尔旗下自动驾驶部门Mobileye周一宣布，计划与合作伙伴在2024在美国推出自动驾驶电动班车。据悉，Mobileye、本特勒电动汽车系统和Beep按需推出自动驾驶电动班车，班车预计配备12至14个座位，并且没有方向盘和踏板。此前，Mobileye在CES 2022上推出了包括用于自动驾驶汽车的全新 EyeQ Ultra专用 SoC，并计划在2024 年为费者提供吉利旗下极氪品牌的全球首款L4 级自动驾驶汽车，并与大众汽车集和福特合作在驾驶辅助系统中应用 Mobileye 的地图技术。",
+                "abs_s": "英特尔旗下自动驾驶部门Mobileye周一宣布，计划与合作伙伴在2024年在美国推出自动驾驶电动班车。据悉，Mobileye、本特勒电动汽车系统和Beep将按需推出自动驾驶电动班车，班车预计配备12至14个座位，并且没有方向盘和踏板。",
+                "cate1": "汽车",
+                "cate2": "",
+                "docid": "20220215A03YUW",
+                "pubtime": "1644895493",
+                "shortcut": "http://inews.gtimg.com/newsapp_ls/0/14521372194_640330/0",
+                "srcfrom": "爱集微APP",
+                "title": "Mobileye将于2024年在美国推出自动驾驶班车",
+                "url_set": {
+                    "doc_url_list": []
+                },
+                "voice_summary": "http://media.dreamreader.qq.com/1101_558404e78b1be8f78d857dae141f8ad1.f0.mp3?vkey=5073A51742A7CB3A0EB470348EFE3FD44ACF44BEB215158FA4992E2138CCE5083C9A395727BF8BC4685EFA1C02F5630ECD503CC8E493F3BBDE237440ED26CFF6C28BBBDFD03C32471B439BEF95AED83E54FAEF4132F0D597&appid_sign=6b06687206a89f617656e1f7e6244084&appid_sign_timestamp=1644904041&appid=tencentWX&duration=48",
+                "voice_timelen": "48"
+            },
+            {
+                "abs_l": "外观设计上，沃兰多的大灯呈现深邃的设计风格，标配LED远近光灯，部构造很有层次感，视觉上显得比较精致有神。从侧面看，沃兰多的长宽高是4684/1807/1627mm，轴距2796mm，采用平直的腰线设计，整体时尚感凸显得非常不错。沃兰多采用了2+3+2的7座布局，身高1.75米的乘客坐进第二排，腿部有着2拳的距离，头顶有着近1拳左右的富余，再进入到第三排，腿部空间比较局促，头顶有着3指左右的富余，适合途应急或者小孩乘坐，要是成年人长途乘坐很容易累。点评： 沃兰多丰富的饰设计是一个加分点，整体的设计风格也很好。",
+                "abs_m": "外观设计上沃兰多的大灯呈现出深邃的设计风格，标配LED远近光灯，内部构造很有层次，视觉上显得比较精致有神。沃兰多采用了2+3+2的7座布局，身高1.75米的乘客坐进第二排，腿部有着2拳的距离，顶有着近1拳左右的富余，再进入到第排，腿部空间比较局促，头顶有着3指右的富余，适合短途应急或者小孩乘坐，要是成年人长途乘坐很容易累。",
+                "abs_s": "外观设计上，沃兰多的大灯呈现出深邃的设计风格，标配LED远近灯，内部构造很有层次感，视觉上显得比较精致有神。沃兰多采用了2+3+2的7座布局，身高1.75米的乘客坐进第二排，腿部有着2拳的距离，头顶有着近1拳左右的富余，再进入到第三排，腿部空间比较局促，头顶有着3指左右的富余适合短途应急或者小孩乘坐，要是成年人长途乘坐很容易累。",
+                "cate1": "汽车",
+                "cate2": "",
+                "docid": "20220215A03KW4",
+                "pubtime": "1644893918",
+                "shortcut": "http://inews.gtimg.com/newsapp_ls/0/14521247853_640330/0",
+                "srcfrom": "快说新车",
+                "title": "美国合资，紧凑7座，间大，实拍沃兰多",
+                "url_set": {
+                    "doc_url_list": []
+                },
+                "voice_summary": "http://media.dreamreader.qq.com/1101_100e2f78c1761477f921c2cc59710049.f0.mp3?vkey=72FE7B5FC7443A69191A283705A11E2082FB19603DE05ED7F15BFC276C050605F156D4C112D1D8506E2D36D46818E653F62B10EC0D832ADDD0BC9589682694CBD7B29C8B76F142D5F9CA3A050F5ACBDE9ED09B3A358A581B&appid_sign=6b06687206a89f617656e1f7e6244084&appid_sign_timestamp=1644904041&appid=tencentWX&duration=57",
+                "voice_timelen": "57"
+            }
+        ]
+    },
+    "errmsg": "",
+    "errno": 0
+}
